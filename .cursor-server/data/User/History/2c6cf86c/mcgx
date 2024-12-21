@@ -1,0 +1,58 @@
+# Python 3.10 기반 CUDA 12.1 이미지로 시작
+FROM nvidia/cuda:12.1.0-cudnn9-devel-ubuntu22.04
+
+# 환경 변수 설정
+ENV DEBIAN_FRONTEND=noninteractive
+ENV PYTHON_VERSION=3.10.12
+ENV PATH /usr/local/bin:$PATH
+
+# 기본 도구 및 Python 3.10 설치
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    python3.10 \
+    python3.10-dev \
+    python3.10-distutils \
+    python3-pip \
+    gcc \
+    g++ \
+    git \
+    sox libsox-fmt-mp3 \
+    ffmpeg \
+    libavcodec-extra \
+    libavformat-dev \
+    libavcodec-dev \
+    libavdevice-dev \
+    libavfilter-dev \
+    libavutil-dev \
+    libswscale-dev \
+    libswresample-dev \
+    libpostproc-dev \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
+
+# Python 3.10을 기본 Python으로 설정
+RUN update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.10 1 \
+    && update-alternatives --install /usr/bin/python python /usr/bin/python3.10 1
+
+# pip 업그레이드
+RUN pip install --upgrade pip==23.1.2
+
+# PyTorch 2.5.1 설치
+RUN pip install torch==2.5.1 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+# 필수 패키지 설치
+COPY requirements.txt /tmp/
+RUN pip install --no-cache-dir -r /tmp/requirements.txt
+
+# 작업 디렉토리 설정
+COPY . /app
+WORKDIR /app
+
+# 모델 다운로드 스크립트 실행
+RUN python /app/src/download_models.py
+
+# Python 버전 확인
+RUN python --version
+
+# 실행 명령
+CMD ["python", "/app/main.py"]

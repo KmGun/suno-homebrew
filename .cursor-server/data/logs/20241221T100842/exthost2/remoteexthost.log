@@ -1,0 +1,20 @@
+2024-12-21 10:08:53.337 [info] Extension host with pid 339525 started
+2024-12-21 10:08:53.354 [info] Lock '/home/ubuntu/.cursor-server/data/User/workspaceStorage/04cb6f2b45a944bcf74dd41e1bcc2642/vscode.lock': Lock acquired.
+2024-12-21 10:08:53.380 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onCommand:git.api.getRepositories', root cause: vscode.git
+2024-12-21 10:08:53.381 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-21 10:08:53.508 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'onCommand:git.api.getRepositories'
+2024-12-21 10:08:53.509 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-12-21 10:08:53.850 [info] Eager extensions activated
+2024-12-21 10:08:53.850 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2024-12-21 10:08:53.851 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2024-12-21 10:08:53.851 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2024-12-21 10:08:53.851 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-21 10:08:53.852 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-21 10:08:55.525 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-12-21 10:12:25.281 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-12-21 10:12:30.539 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-12-21 10:12:30.539 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-12-21 10:12:30.540 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-12-21 13:18:58.157 [info] Extension host terminating: renderer disconnected for too long (2)
+2024-12-21 13:18:58.161 [info] Lock '/home/ubuntu/.cursor-server/data/User/workspaceStorage/04cb6f2b45a944bcf74dd41e1bcc2642/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-12-21 13:18:58.206 [info] Extension host with pid 339525 exiting with code 0

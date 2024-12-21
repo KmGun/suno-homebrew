@@ -1,0 +1,15 @@
+Server bound to /tmp/cursor-eebfab89-63bb-4b9b-90af-12e233f30655
+Extension host agent listening on /tmp/cursor-eebfab89-63bb-4b9b-90af-12e233f30655
+
+[13:45:53] 
+
+
+
+
+[13:45:53] Extension host agent started.
+[13:45:53] [<unknown>][9df39433][ManagementConnection] New connection established.
+[13:45:53] [<unknown>][57564f0a][ExtensionHostConnection] New connection established.
+[13:45:53] [<unknown>][57564f0a][ExtensionHostConnection] <392675> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[13:50:53] New EH opened, aborting shutdown
+[19:27:57] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

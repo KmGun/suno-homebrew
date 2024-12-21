@@ -1,0 +1,8 @@
+2024-12-20 10:54:17.647 [info] 
+
+
+
+
+2024-12-20 10:54:17.657 [info] Extension host agent started.
+2024-12-20 10:54:17.687 [error] [<unknown>][dc47b439][ManagementConnection] Unknown reconnection token (never seen).
+2024-12-20 10:59:17.657 [info] Last EH closed, shutting down

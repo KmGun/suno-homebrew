@@ -1,0 +1,40 @@
+# PyTorch 공식 이미지 사용
+FROM pytorch/pytorch:2.5.1-cuda12.1-cudnn9-runtime
+
+# 사용자 기반 설치 경로 설정
+ENV DEBIAN_FRONTEND=noninteractive
+ENV PYTHONUSERBASE /usr/local/python-packages
+ENV PYTHONPATH /usr/local/python-packages/lib/python3.10/site-packages:$PYTHONPATH
+
+# SOX, MP3 지원 및 ffmpeg 관련 패키지 설치
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends \
+    sox libsox-fmt-mp3 \
+    ffmpeg \
+    libavcodec-extra \
+    libavformat-dev \
+    libavcodec-dev \
+    libavdevice-dev \
+    libavfilter-dev \
+    libavutil-dev \
+    libswscale-dev \
+    libswresample-dev \
+    libpostproc-dev \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
+
+# pip 업그레이드
+RUN pip install --upgrade pip==23.1.2 --user
+
+# 필수 패키지 설치
+COPY requirements.txt /tmp/
+RUN pip install -r /tmp/requirements.txt --user
+
+# 루트 디렉토리의 모든 파일을 Docker 이미지에 복사
+COPY . /app
+
+# 모델 다운로드 스크립트 실행
+RUN python /app/src/download_models.py
+
+# 컨테이너 실행 시 execute.py 실행
+CMD ["python", "/app/main.py"]

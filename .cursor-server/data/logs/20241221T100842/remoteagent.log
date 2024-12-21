@@ -1,0 +1,24 @@
+2024-12-21 10:08:42.949 [info] 
+
+
+
+
+2024-12-21 10:08:42.958 [info] Extension host agent started.
+2024-12-21 10:08:42.986 [info] [<unknown>][9a7828a7][ManagementConnection] New connection established.
+2024-12-21 10:08:42.994 [info] [<unknown>][c09dcc1e][ExtensionHostConnection] New connection established.
+2024-12-21 10:08:43.066 [info] [<unknown>][c09dcc1e][ExtensionHostConnection] <339425> Launched Extension Host Process.
+2024-12-21 10:08:51.975 [info] [<unknown>][9a7828a7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-21 10:08:52.007 [info] [<unknown>][c09dcc1e][ExtensionHostConnection] <339425> Extension Host Process exited with code: 0, signal: null.
+2024-12-21 10:08:52.007 [info] Cancelling previous shutdown timeout
+2024-12-21 10:08:52.007 [info] Last EH closed, waiting before shutting down
+2024-12-21 10:08:52.823 [info] [<unknown>][6cef4237][ExtensionHostConnection] New connection established.
+2024-12-21 10:08:52.826 [info] [<unknown>][6cef4237][ExtensionHostConnection] <339525> Launched Extension Host Process.
+2024-12-21 10:08:52.827 [info] [<unknown>][47b7e817][ManagementConnection] New connection established.
+2024-12-21 10:13:52.007 [info] New EH opened, aborting shutdown
+2024-12-21 13:13:58.057 [info] [<unknown>][47b7e817][ManagementConnection] The client has reconnected.
+2024-12-21 13:18:58.242 [info] [<unknown>][6cef4237][ExtensionHostConnection] <339525> Extension Host Process exited with code: 0, signal: null.
+2024-12-21 13:18:58.252 [info] Last EH closed, waiting before shutting down
+2024-12-21 13:18:58.256 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ubuntu/.cursor-server/cli/servers/Stable-1d610252e6812bf33245763f0742a534fd0f1d90/server/out/vs/server/node/server.main.js:191:6428)
+    at process.emit (node:events:531:35)
+2024-12-21 13:23:58.253 [info] Last EH closed, shutting down

@@ -1,0 +1,14 @@
+2024-12-20 03:31:20.957 [info] Using repo backend url https://repo42.cursor.sh
+2024-12-20 03:31:21.099 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 03:31:21.500 [info] Using repo backend url https://repo42.cursor.sh
+2024-12-20 03:31:21.514 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 03:31:21.514 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 03:31:21.515 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 03:31:21.515 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 03:31:21.515 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 03:31:21.515 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 03:31:21.762 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 03:31:21.762 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 03:31:21.830 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 03:31:21.830 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 03:31:23.414 [info] Git graph is enabled

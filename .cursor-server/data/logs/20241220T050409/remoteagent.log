@@ -1,0 +1,26 @@
+2024-12-20 05:04:09.972 [info] 
+
+
+
+
+2024-12-20 05:04:09.982 [info] Extension host agent started.
+2024-12-20 05:04:10.011 [info] [<unknown>][dd9c41d8][ExtensionHostConnection] New connection established.
+2024-12-20 05:04:10.018 [info] [<unknown>][bed6c7a2][ManagementConnection] New connection established.
+2024-12-20 05:04:10.092 [info] [<unknown>][dd9c41d8][ExtensionHostConnection] <239061> Launched Extension Host Process.
+2024-12-20 05:04:11.484 [info] [<unknown>][bed6c7a2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-20 05:04:11.684 [info] [<unknown>][dd9c41d8][ExtensionHostConnection] <239061> Extension Host Process exited with code: 0, signal: null.
+2024-12-20 05:04:11.684 [info] Cancelling previous shutdown timeout
+2024-12-20 05:04:11.685 [info] Last EH closed, waiting before shutting down
+2024-12-20 05:04:12.127 [info] [<unknown>][6e6b5611][ExtensionHostConnection] New connection established.
+2024-12-20 05:04:12.131 [info] [<unknown>][6e6b5611][ExtensionHostConnection] <239121> Launched Extension Host Process.
+2024-12-20 05:04:12.142 [info] [<unknown>][dc47b439][ManagementConnection] New connection established.
+2024-12-20 05:09:11.685 [info] New EH opened, aborting shutdown
+2024-12-20 08:08:51.209 [info] [<unknown>][dc47b439][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-12-20 10:18:15.389 [info] [<unknown>][dc47b439][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-12-20 10:18:15.391 [info] [<unknown>][dc47b439][ManagementConnection] The client has reconnected.
+2024-12-20 10:18:15.413 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/ubuntu/.cursor-server/cli/servers/Stable-1d610252e6812bf33245763f0742a534fd0f1d90/server/out/vs/server/node/server.main.js:191:6428)
+    at process.emit (node:events:531:35)
+2024-12-20 10:23:15.773 [info] [<unknown>][6e6b5611][ExtensionHostConnection] <239121> Extension Host Process exited with code: 0, signal: null.
+2024-12-20 10:23:15.774 [info] Last EH closed, waiting before shutting down
+2024-12-20 10:28:15.774 [info] Last EH closed, shutting down

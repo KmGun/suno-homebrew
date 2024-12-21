@@ -1,0 +1,32 @@
+deemix
+fairseq==0.12.2
+faiss-cpu==1.7.3
+ffmpeg-python>=0.2.0
+gradio==3.39.0
+lib==4.0.0
+librosa>=0.10.0
+numpy==1.23.5
+praat-parselmouth>=0.4.2
+pedalboard==0.7.7
+pydub==0.25.1
+pyworld==0.3.4
+requests==2.31.0
+scipy>=1.13.0,<2.0.0
+soundfile==0.12.1
+torchcrepe>=0.0.20
+tqdm==4.65.0
+yt_dlp==2023.7.6
+sox==1.4.1
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+boto3
+onnxruntime-gpu==1.19.0  # 버전 업데이트
+pedalboard
+pydub
+torch==2.0.1  # 버전 명시
+torchvision  # torch 2.5.1과 호환되는 버전 자동 설치
+torchaudio   # torch 2.5.1과 호환되는 버전 자동 설치
+python-dotenv
+audio-separator[gpu]==0.17.2

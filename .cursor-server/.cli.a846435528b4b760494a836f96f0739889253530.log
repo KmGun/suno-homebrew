@@ -1,0 +1,7 @@
+Listening on 127.0.0.1:33915
+[2024-12-20 03:08:34] info Disposed of connection to running server.
+looking for token 318026bf-2065-4f49-9b54-d961add39603, got Some("318026bf-2065-4f49-9b54-d961add39603")
+[2024-12-20 03:08:34] info Checking /home/ubuntu/.cursor-server/cli/servers/Stable-a846435528b4b760494a836f96f0739889253530/log.txt and /home/ubuntu/.cursor-server/cli/servers/Stable-a846435528b4b760494a836f96f0739889253530/pid.txt for a running server...
+[2024-12-20 03:08:34] info Starting server...
+[2024-12-20 03:08:34] info Server started
+[2024-12-20 03:09:09] info Disposed of connection to running server.

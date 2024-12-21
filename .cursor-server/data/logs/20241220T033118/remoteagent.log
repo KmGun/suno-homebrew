@@ -1,0 +1,19 @@
+2024-12-20 03:31:18.117 [info] 
+
+
+
+
+2024-12-20 03:31:18.127 [info] Extension host agent started.
+2024-12-20 03:31:18.155 [info] [<unknown>][39f21f8c][ExtensionHostConnection] New connection established.
+2024-12-20 03:31:18.163 [info] [<unknown>][ad27692a][ManagementConnection] New connection established.
+2024-12-20 03:31:18.220 [info] [<unknown>][39f21f8c][ExtensionHostConnection] <213589> Launched Extension Host Process.
+2024-12-20 03:31:19.194 [info] [<unknown>][479bfbbb][ExtensionHostConnection] New connection established.
+2024-12-20 03:31:19.198 [info] [<unknown>][479bfbbb][ExtensionHostConnection] <213611> Launched Extension Host Process.
+2024-12-20 03:31:19.205 [info] [<unknown>][cae1c393][ManagementConnection] New connection established.
+2024-12-20 03:31:48.507 [info] [<unknown>][ad27692a][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-12-20 03:36:18.127 [info] New EH opened, aborting shutdown
+2024-12-20 03:36:19.372 [info] [<unknown>][39f21f8c][ExtensionHostConnection] <213589> Extension Host Process exited with code: 0, signal: null.
+2024-12-20 03:59:33.965 [info] [<unknown>][cae1c393][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-20 03:59:34.008 [info] [<unknown>][479bfbbb][ExtensionHostConnection] <213611> Extension Host Process exited with code: 0, signal: null.
+2024-12-20 03:59:34.009 [info] Last EH closed, waiting before shutting down
+2024-12-20 04:04:34.010 [info] Last EH closed, shutting down

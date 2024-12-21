@@ -1,0 +1,134 @@
+2024-12-20 11:13:23.234 [info] Using repo backend url https://repo42.cursor.sh
+2024-12-20 11:13:23.280 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:13:23.586 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:13:23.586 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:13:23.586 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:13:23.586 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:13:23.586 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:13:23.586 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:13:23.797 [info] Using repo backend url https://repo42.cursor.sh
+2024-12-20 11:13:23.903 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:13:23.903 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:13:23.964 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:13:23.964 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:13:25.690 [info] Git graph is enabled
+2024-12-20 11:13:46.475 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 11:13:46.476 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 11:13:46.476 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 11:13:46.476 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 11:13:46.476 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 11:13:46.766 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 11:13:46.766 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 11:13:49.110 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:13:49.110 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:13:49.110 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:13:49.110 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:13:49.110 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:13:49.110 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:13:49.388 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:13:49.388 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:14:07.375 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:14:07.375 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:14:07.729 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:14:07.729 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:14:08.024 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:14:08.024 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:14:29.828 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:14:29.828 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:14:34.157 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:14:34.157 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:14:36.376 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:14:36.376 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:14:36.473 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:14:36.473 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:14:36.783 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:14:36.784 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:14:55.985 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:14:55.985 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:14:56.259 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:14:56.259 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:15:02.671 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:15:02.671 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:15:03.019 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:15:03.019 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:15:03.320 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:15:03.320 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:15:10.506 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:15:10.506 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:15:14.311 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:15:14.311 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:15:14.311 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:15:14.311 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:15:14.605 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 11:15:14.605 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:38:50.728 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:38:51.510 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:38:51.510 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:38:52.975 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:38:52.975 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:38:54.143 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:38:54.143 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:38:55.434 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:38:55.434 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:38:57.376 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:38:57.376 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:38:57.674 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:38:57.674 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:43:31.486 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:43:31.486 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:43:31.486 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:43:31.486 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:43:31.487 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:43:31.786 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:43:31.786 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:45:20.180 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:45:20.180 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:45:20.636 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:45:20.636 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:45:20.958 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:45:20.958 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:45:22.970 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:45:22.970 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:45:23.268 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:45:23.269 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:45:29.491 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:45:29.491 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:45:36.222 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:45:36.222 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:45:37.513 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:45:37.514 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:45:37.514 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:45:37.514 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:45:37.514 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:45:37.809 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:45:37.809 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:46:05.152 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:46:05.152 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:46:05.152 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:46:05.152 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:46:05.152 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:46:05.152 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:46:05.442 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:46:05.442 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:53:36.429 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:53:36.429 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:53:36.713 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:53:36.713 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:53:36.714 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:53:36.714 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:53:38.463 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:53:38.463 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:53:38.761 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:53:38.761 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/Dockerfile
+2024-12-20 12:53:54.708 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:53:54.708 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:53:54.708 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:53:54.708 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:53:54.708 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:53:54.709 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:53:54.992 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:53:54.992 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:58:13.891 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:58:13.892 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:58:14.187 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt
+2024-12-20 12:58:14.187 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /home/ubuntu/requirements.txt

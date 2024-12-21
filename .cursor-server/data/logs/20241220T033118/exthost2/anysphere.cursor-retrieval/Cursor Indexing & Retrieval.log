@@ -1,0 +1,34 @@
+2024-12-20 03:31:20.957 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2024-12-20 03:31:20.957 [error] Git command failed: git config --get remote.origin.url Command failed: git config --get remote.origin.url
+
+2024-12-20 03:31:20.957 [error] Error getting repo info: Command failed: git config --get remote.origin.url
+
+2024-12-20 03:31:20.957 [error] Error: Command failed: git config --get remote.origin.url
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:423:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1105:16)
+	at Socket.<anonymous> (node:internal/child_process:457:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:338:12)
+2024-12-20 03:31:21.170 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2024-12-20 03:31:21.189 [info] Creating merkle client.
+2024-12-20 03:31:21.189 [info] Done creating merkle client.
+2024-12-20 03:31:21.189 [error] We currently do not allow indexing the home directory.
+2024-12-20 03:31:21.190 [info] Indexing job successfully done or aborted.
+2024-12-20 03:31:21.500 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2024-12-20 03:31:21.502 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2024-12-20 03:31:21.510 [info] Creating merkle client.
+2024-12-20 03:31:21.510 [info] Done creating merkle client.
+2024-12-20 03:31:21.510 [error] We currently do not allow indexing the home directory.
+2024-12-20 03:31:21.510 [info] Indexing job successfully done or aborted.
+2024-12-20 03:41:21.522 [info] Creating merkle client.
+2024-12-20 03:41:21.522 [info] Done creating merkle client.
+2024-12-20 03:41:21.522 [error] We currently do not allow indexing the home directory.
+2024-12-20 03:41:21.522 [info] Indexing job successfully done or aborted.
+2024-12-20 03:51:21.513 [info] Creating merkle client.
+2024-12-20 03:51:21.514 [info] Done creating merkle client.
+2024-12-20 03:51:21.514 [error] We currently do not allow indexing the home directory.
+2024-12-20 03:51:21.514 [info] Indexing job successfully done or aborted.

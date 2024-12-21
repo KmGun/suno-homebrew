@@ -1,0 +1,22 @@
+2024-12-20 03:08:36.392 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2024-12-20 03:08:36.392 [error] Error: Command failed: git config --get remote.origin.url
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:423:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1105:16)
+	at Socket.<anonymous> (node:internal/child_process:457:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:338:12)
+2024-12-20 03:08:36.595 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2024-12-20 03:08:36.636 [info] Creating merkle client.
+2024-12-20 03:08:36.636 [info] Done creating merkle client.
+2024-12-20 03:08:36.636 [error] We currently do not allow indexing the home directory.
+2024-12-20 03:08:36.637 [info] Indexing job successfully done or aborted.
+2024-12-20 03:08:37.008 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2024-12-20 03:08:37.009 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2024-12-20 03:08:37.048 [info] Creating merkle client.
+2024-12-20 03:08:37.048 [info] Done creating merkle client.
+2024-12-20 03:08:37.048 [error] We currently do not allow indexing the home directory.
+2024-12-20 03:08:37.048 [info] Indexing job successfully done or aborted.
